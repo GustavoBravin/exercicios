@@ -3,7 +3,7 @@ class NerdIF {
     this.estudante = estudante;
     this.cosplay = cosplay;
     this.nota_cosplay = nota_cosplay;
-  }
+  } 
 
   retornarAtributos() {
     return this.atributos()

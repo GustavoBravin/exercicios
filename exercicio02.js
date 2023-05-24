@@ -1,6 +1,6 @@
 /*
   Todos os atributos necessários. Assim, usando Try e Catch, trate os erros e apresente uma mensagem quando houve atributos vazios.
-*/
+*/ 
 
 class Estudante {
   constructor(nome, idade, turma) {

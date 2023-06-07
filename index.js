@@ -8,7 +8,7 @@ mostrar(){
         return this.atributos();
     } 
     catch(erro){
-     console.log(erro.stack.message)
+     console.log(erro.message)
     }
     
 }
